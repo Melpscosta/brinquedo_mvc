@@ -1,2 +1,2 @@
 # brinquedo_mvc
-aulinha 
+Projeto didático para Spring MVC Web estático.
